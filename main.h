@@ -54,4 +54,4 @@ char *_strncpy(char *, const char *, int);
 char *_revstr(char *);
 void _print_string(char *);
 char *cpy_fmt_spec(const char *);
-#endif // MAIN_H
+#endif
