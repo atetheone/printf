@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 char *_utoa(unsigned long int number, char *buffer, int base);
 
 /**

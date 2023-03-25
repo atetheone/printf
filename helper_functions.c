@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * _strlen - Function that finds the length of a string
 * @s: string that the length of is found

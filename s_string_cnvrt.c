@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * s_string_cnvrt - a function that copies a string
 * @args: argument to be copies

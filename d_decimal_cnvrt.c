@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * d_decimal_cnvrt -  converts decimal to string
 * @args: decimal to be converted to string

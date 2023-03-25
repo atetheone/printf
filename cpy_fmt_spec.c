@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * cpy_fmt_spec - validate format spec and copy to new string

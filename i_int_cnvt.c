@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * i_int_cnvrt - converts an integer to string
 * @args: argument to be converted

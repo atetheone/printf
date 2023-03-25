@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * o_octal_cnvrt - convert unsigned number to octal
  * @args: decimal to convert

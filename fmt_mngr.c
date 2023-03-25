@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
 * fmt_mngr - selects and calls pointer to function
 * @args: arg list

@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * b_binary_cnvrt - convert unsigned number to binary
  * @args: decimal to convert
